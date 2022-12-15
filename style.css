@@ -494,13 +494,15 @@ p{
 .arrow{
 	margin-top: 50.75px;
 	text-align: center;
+	
 }
 .arrow .fa-solid{
 	margin: 15px;
 	background: #EEEEEE;
 	border-radius: 50%;
-	padding: 20px 23px;
+	padding: 18px 21px;
 	color: #B0B0B0;
+	cursor: pointer;
 }
 .arrow .fa-angle-right{
 	color: #fff;
@@ -754,7 +756,7 @@ p{
 		
 	}
 	.service, .title h2{
-		margin-top: 60px!important;
+		margin-top: 50px!important;
 		font-size: 36px !important;
 		margin-bottom: 39px !important;
 		
@@ -766,7 +768,7 @@ p{
 	}
 	.design-approch{
 		width: 100% !important;
-		margin-top: 1700px !important;
+		margin-top: 1650px !important;
 		padding-top: 30px  !important;
 		
 	}
@@ -798,7 +800,7 @@ p{
 		margin-bottom: 30px !important;
 	}
 	.our-works{
-		margin-top: 60px !important;
+		margin-top: 50px !important;
 	}
 	.works-title{
 		flex-direction: column !important;
@@ -825,7 +827,11 @@ p{
 		
 	}
 	.our-team{
-		margin-top: 60px !important;
+		margin-top: 50px !important;
+	}
+	.arrow{
+		margin-top: 30.75px !important;
+		
 	}
 	.card-title{
 		font-size: 20px;
